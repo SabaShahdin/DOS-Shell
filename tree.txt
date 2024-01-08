@@ -1,0 +1,7 @@
+Directory,V,V:/,22:45:23
+Directory,dir1,V/dir1,22:45:23
+File,file1,V:/dir1,.txt,22:45:23
+Directory,dir2,V/dir2,22:45:23
+File,file2,V:/dir2,.txt,22:45:23
+File,file1,V:/dir2/file1,.txt,22:46:17
+File,file3,V/dir2,.txt,22:46:32
